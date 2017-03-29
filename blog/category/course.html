@@ -285,7 +285,18 @@ init_mathjax();
 
 <p><a href="https://vimeo.com/209503575">4bar(SolveSpace轉V-rep)</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<p>心得:</p>
+<h3>Fossil SCM 與 Stunnel 啟動整合</h3>
+
+<p>1. 更改 Start.bat 設定</p>
+
+<pre class="brush: python">
+REM tiny2017 主要針對初學 Python3 與 C 學員所建立
+REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
+@echo off
+REM 設定 y 硬碟代號與 data 目錄對應
+set Disk=y
+subst %Disk%: "data"
+REM 設定 leo ...</pre>
                     <a class="btn btn-default btn-xs" href="../Week 5.html">more ...</a>
                 </div>
             </article>
