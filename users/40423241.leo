@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170417235132.1"><vh>20170222Week1</vh>
@@ -60,7 +60,7 @@
 <v t="leo.20170417235145.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170417235151.1"><vh>20170315Week4</vh>
+<v t="leo.20170417235151.1" a="E"><vh>20170315Week4</vh>
 <v t="leo.20170417235151.2" a="E"><vh>周次</vh>
 <v t="leo.20170417235151.3"><vh>Week</vh></v>
 </v>
@@ -764,7 +764,7 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423241黃鈺灃](https://40423241.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
