@@ -27,94 +27,95 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2" a="E"><vh>html</vh>
-<v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
-<v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170418204027.1" a="E"><vh>@clean index.html</vh>
+<v t="leo.20170418204027.2" a="E"><vh>html</vh>
+<v t="leo.20170418204027.3"><vh>head</vh></v>
+<v t="leo.20170418204027.4" a="E"><vh>body</vh>
+<v t="leo.20170418204027.5" a="E"><vh>reveal div</vh>
+<v t="leo.20170418204027.6" a="E"><vh>slides div</vh>
+<v t="leo.20170418204027.7" a="E"><vh>封面投影片</vh>
+<v t="leo.20170418204027.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170417235132.1"><vh>20170222Week1</vh>
-<v t="leo.20170417235132.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235132.3"><vh>Week</vh></v>
+<v t="leo.20170418204027.9"><vh>20170222Week1</vh>
+<v t="leo.20170418204027.10" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.11"><vh>Week</vh></v>
 </v>
-<v t="leo.20170417235132.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235132.5"><vh>上課內容1</vh></v>
-</v>
-</v>
-<v t="leo.20170417235139.1"><vh>20170301Week2</vh>
-<v t="leo.20170417235139.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235139.3"><vh>Week</vh></v>
-</v>
-<v t="leo.20170417235139.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235139.5"><vh>上課內容1</vh></v>
+<v t="leo.20170418204027.12" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.13"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170417235145.1"><vh>20170308Week3</vh>
-<v t="leo.20170417235145.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235145.3"><vh>Week</vh></v>
+<v t="leo.20170418204027.14"><vh>20170301Week2</vh>
+<v t="leo.20170418204027.15" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.16"><vh>Week</vh></v>
 </v>
-<v t="leo.20170417235145.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235145.5"><vh>上課內容1</vh></v>
-</v>
-</v>
-<v t="leo.20170417235151.1" a="E"><vh>20170315Week4</vh>
-<v t="leo.20170417235151.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235151.3"><vh>Week</vh></v>
-</v>
-<v t="leo.20170417235151.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235151.5"><vh>上課內容1</vh></v>
+<v t="leo.20170418204027.17" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.18"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170417235200.1"><vh>20170322Week5</vh>
-<v t="leo.20170417235200.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235200.3"><vh>Week</vh></v>
+<v t="leo.20170418204027.19"><vh>20170308Week3</vh>
+<v t="leo.20170418204027.20" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.21"><vh>Week</vh></v>
 </v>
-<v t="leo.20170417235200.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235200.5"><vh>上課內容1</vh></v>
-</v>
-</v>
-<v t="leo.20170417235207.1"><vh>20170329Week6</vh>
-<v t="leo.20170417235207.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235207.3"><vh>Week</vh></v>
-</v>
-<v t="leo.20170417235207.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235207.5"><vh>上課內容1</vh></v>
+<v t="leo.20170418204027.22" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.23"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170417235213.1"><vh>20170405Week7</vh>
-<v t="leo.20170417235213.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235213.3"><vh>Week</vh></v>
+<v t="leo.20170418204027.24" a="E"><vh>20170315Week4</vh>
+<v t="leo.20170418204027.25" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.26"><vh>Week</vh></v>
 </v>
-<v t="leo.20170417235213.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235213.5"><vh>上課內容1</vh></v>
-</v>
-</v>
-<v t="leo.20170417235229.1"><vh>20170412Week8</vh>
-<v t="leo.20170417235229.2" a="E"><vh>周次</vh>
-<v t="leo.20170417235229.3"><vh>Week</vh></v>
-</v>
-<v t="leo.20170417235229.4" a="E"><vh>課堂報告1</vh>
-<v t="leo.20170417235229.5"><vh>上課內容1</vh></v>
+<v t="leo.20170418204027.27" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.28"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170418204027.29"><vh>20170322Week5</vh>
+<v t="leo.20170418204027.30" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.31"><vh>Week</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170418204027.32" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.33"><vh>上課內容1</vh></v>
 </v>
 </v>
+<v t="leo.20170418204027.34"><vh>20170329Week6</vh>
+<v t="leo.20170418204027.35" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.36"><vh>Week</vh></v>
 </v>
-<v t="yen.20170120110024.5"><vh>reveal div</vh></v>
+<v t="leo.20170418204027.37" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.38"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170418204027.39"><vh>20170405Week7</vh>
+<v t="leo.20170418204027.40" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.41"><vh>Week</vh></v>
+</v>
+<v t="leo.20170418204027.42" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.43"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170418204027.44"><vh>20170412Week8</vh>
+<v t="leo.20170418204027.45" a="E"><vh>周次</vh>
+<v t="leo.20170418204027.46"><vh>Week</vh></v>
+</v>
+<v t="leo.20170418204027.47" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170418204027.48"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170418204027.49"><vh>快捷鍵</vh>
+<v t="leo.20170418204027.50"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170418204027.51"><vh>各式內容引用範例</vh>
+<v t="leo.20170418204027.52" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20170418204027.53"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20170418204027.54" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20170418204027.55"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170418204027.56" a="E"><vh>導入影片</vh>
+<v t="leo.20170418204027.57"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -155,10 +156,12 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170417235132.1">&lt;section&gt;
+<t tx="leo.20170418204027.1">@language xml
+@tabwidth -4
 @others
-&lt;/section&gt;</t>
-<t tx="leo.20170417235132.2">&lt;section data-markdown&gt;
+
+</t>
+<t tx="leo.20170418204027.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -169,9 +172,9 @@
 
 						
 </t>
-<t tx="leo.20170417235132.3"># Week 1
+<t tx="leo.20170418204027.11"># Week 1
 </t>
-<t tx="leo.20170417235132.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -182,7 +185,7 @@
 
 						
 </t>
-<t tx="leo.20170417235132.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.13">&lt;p align="left"&gt;
 1. 用 SciTE 將 Y:\stunnel\config 下的 stunnel.conf 開啟&lt;/p&gt;
 
 &lt;p align="left"&gt;
@@ -196,10 +199,10 @@
 
 &lt;p align="left"&gt;
 5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
-<t tx="leo.20170417235139.1">&lt;section&gt;
+<t tx="leo.20170418204027.14">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235139.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.15">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -210,9 +213,9 @@
 
 						
 </t>
-<t tx="leo.20170417235139.3"># Week 2
+<t tx="leo.20170418204027.16"># Week 2
 </t>
-<t tx="leo.20170417235139.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.17">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -223,7 +226,7 @@
 
 						
 </t>
-<t tx="leo.20170417235139.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.18">&lt;p align="left"&gt;
 1. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表&lt;/p&gt;
 
 &lt;p align="left"&gt;
@@ -236,10 +239,15 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/207398747"&gt;fourbar組裝&lt;/a&gt; from &lt;a href="https://vimeo.com/user63213368"&gt;40423241&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
-<t tx="leo.20170417235145.1">&lt;section&gt;
+<t tx="leo.20170418204027.19">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235145.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.2">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+@others
+&lt;/html&gt;
+</t>
+<t tx="leo.20170418204027.20">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -250,9 +258,9 @@
 
 						
 </t>
-<t tx="leo.20170417235145.3"># Week 3
+<t tx="leo.20170418204027.21"># Week 3
 </t>
-<t tx="leo.20170417235145.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.22">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -263,15 +271,15 @@
 
 						
 </t>
-<t tx="leo.20170417235145.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.23">&lt;p align="left"&gt;
 1. 完成看影片打出英文稿&lt;/p&gt;
 
 &lt;p align="left"&gt;
 2. 練習在近端建立 fossil&lt;/p&gt;</t>
-<t tx="leo.20170417235151.1">&lt;section&gt;
+<t tx="leo.20170418204027.24">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235151.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.25">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -282,9 +290,9 @@
 
 						
 </t>
-<t tx="leo.20170417235151.3"># Week 4
+<t tx="leo.20170418204027.26"># Week 4
 </t>
-<t tx="leo.20170417235151.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.27">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -295,17 +303,51 @@
 
 						
 </t>
-<t tx="leo.20170417235151.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.28">&lt;p align="left"&gt;
 1. 建立協同主機 2017springcd_bg1 : &lt;a href="https://mde2a2.kmol.info/cdbg1"&gt;https://mde2a2.kmol.info/cdbg1&lt;/a&gt; &lt;/p&gt;
 
 &lt;p align="left"&gt;
 2. 繪製單桿機構&lt;/p&gt;
 
-&lt;iframe src="./data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20170417235200.1">&lt;section&gt;
+&lt;iframe src="../data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170418204027.29">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235200.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.3">&lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+&lt;title&gt;
+2017 Spring 機械設計工程系協同產品設計實習
+&lt;/title&gt;
+    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+    &lt;meta name="author" content="Hakim El Hattab"&gt;
+    
+    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
+    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
+    
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+    
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
+    
+    &lt;!-- Theme used for syntax highlighting of code --&gt;
+    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+&lt;/head&gt;
+
+</t>
+<t tx="leo.20170418204027.30">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -316,9 +358,9 @@
 
 						
 </t>
-<t tx="leo.20170417235200.3"># Week 5
+<t tx="leo.20170418204027.31"># Week 5
 </t>
-<t tx="leo.20170417235200.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.32">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -329,15 +371,15 @@
 
 						
 </t>
-<t tx="leo.20170417235200.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.33">&lt;p align="left"&gt;
 1. Fossil SCM 與 Stunnel 啟動整合&lt;/p&gt;
 
 &lt;p align="left"&gt;
 2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;</t>
-<t tx="leo.20170417235207.1">&lt;section&gt;
+<t tx="leo.20170418204027.34">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235207.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.35">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -348,9 +390,9 @@
 
 						
 </t>
-<t tx="leo.20170417235207.3"># Week 6
+<t tx="leo.20170418204027.36"># Week 6
 </t>
-<t tx="leo.20170417235207.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.37">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -361,17 +403,45 @@
 
 						
 </t>
-<t tx="leo.20170417235207.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.38">&lt;p align="left"&gt;
 1. 在 Onshape 及 SolveSpace 繪製出 Onebar 及 Fourbar&lt;/p&gt;
 
 &lt;p align="left"&gt;
 2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212925557" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/212925557"&gt;fourbar(Onshape轉V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/user63213368"&gt;40423241黃鈺灃&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20170417235213.1">&lt;section&gt;
+<t tx="leo.20170418204027.39">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235213.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.4">&lt;body&gt;
+@others
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+&lt;/script&gt;
+&lt;/body&gt;
+</t>
+<t tx="leo.20170418204027.40">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -382,10 +452,10 @@
 
 						
 </t>
-<t tx="leo.20170417235213.3"># Week 7
+<t tx="leo.20170418204027.41"># Week 7
 
 </t>
-<t tx="leo.20170417235213.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.42">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -396,15 +466,15 @@
 
 						
 </t>
-<t tx="leo.20170417235213.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.43">&lt;p align="left"&gt;
 1. Fossil 檔案推送&lt;/p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/212761652" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/212761652"&gt;Fossil&lt;/a&gt; from &lt;a href="https://vimeo.com/user63213368"&gt;40423241黃鈺灃&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20170417235229.1">&lt;section&gt;
+<t tx="leo.20170418204027.44">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170417235229.2">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.45">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -415,10 +485,10 @@
 
 						
 </t>
-<t tx="leo.20170417235229.3"># Week 8
+<t tx="leo.20170418204027.46"># Week 8
 
 </t>
-<t tx="leo.20170417235229.4">&lt;section data-markdown&gt;
+<t tx="leo.20170418204027.47">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -429,10 +499,139 @@
 
 						
 </t>
-<t tx="leo.20170417235229.5">&lt;p align="left"&gt;
+<t tx="leo.20170418204027.48">&lt;p align="left"&gt;
 1. 小組互評: https://pygroup-ag100.rhcloud.com &lt;/p&gt;
 
 </t>
+<t tx="leo.20170418204027.49">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170418204027.5">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170418204027.50"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170418204027.51">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170418204027.52">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418204027.53"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170418204027.54">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418204027.55">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20170418204027.56">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170418204027.57">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170418204027.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170418204027.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170418204027.8">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40423241黃鈺灃](https://40423241.github.io/2017springcd_hw/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170418204027.9">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -581,204 +780,6 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
-<t tx="yen.20170120110024.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="yen.20170120110024.2">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;
-</t>
-<t tx="yen.20170120110024.3">&lt;head&gt;
-    &lt;meta charset="utf-8"&gt;
-&lt;title&gt;
-2017 Spring 機械設計工程系協同產品設計實習
-&lt;/title&gt;
-    &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-    &lt;meta name="author" content="Hakim El Hattab"&gt;
-    
-    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;
-    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;
-    
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
-    
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme"&gt;
-    
-    &lt;!-- Theme used for syntax highlighting of code --&gt;
-    &lt;link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-&lt;/head&gt;
-
-</t>
-<t tx="yen.20170120110024.4">&lt;body&gt;
-@others
-&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-        // More info https://github.com/hakimel/reveal.js#configuration
-        Reveal.initialize({
-            controls: true,
-            progress: true,
-            history: true,
-            center: true,
-
-            transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-            // More info https://github.com/hakimel/reveal.js#dependencies
-            dependencies: [
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
-                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
-            ]
-        });
-&lt;/script&gt;
-&lt;/body&gt;
-</t>
-<t tx="yen.20170120110024.5">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40423241黃鈺灃](https://40423241.github.io/2017springcd_hw/blog/)
-&lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
-
-
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
 import calendar
