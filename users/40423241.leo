@@ -309,7 +309,7 @@
 &lt;p align="left"&gt;
 2. 繪製單桿機構&lt;/p&gt;
 
-&lt;iframe src="../data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="./data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170418204027.29">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
