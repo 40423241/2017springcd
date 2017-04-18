@@ -31,7 +31,6 @@
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
@@ -115,7 +114,7 @@
 </v>
 </v>
 </v>
-</v>
+<v t="yen.20170120110024.5"><vh>reveal div</vh></v>
 </v>
 </v>
 </v>
@@ -302,7 +301,7 @@
 &lt;p align="left"&gt;
 2. 繪製單桿機構&lt;/p&gt;
 
-&lt;iframe src="../data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="./data/004.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170417235200.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
