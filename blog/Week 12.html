@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>20170510第十二週 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,15 +166,22 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
-<link rel="canonical" href=".">
-        <meta name="author" content="KMOL" />
+<link rel="canonical" href="./Week 12.html">
 
-    <!-- Open Graph tags -->
+        <meta name="author" content="40423241" />
+        <meta name="keywords" content="brython,w12" />
+        <meta name="description" content="互評" />
+
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="20170510第十二週"/>
+        <meta property="og:url" content="./Week 12.html"/>
+        <meta property="og:description" content="互評"/>
+        <meta property="article:published_time" content="2017-05-10" />
+            <meta property="article:section" content="Course" />
+            <meta property="article:tag" content="brython" />
+            <meta property="article:tag" content="w12" />
+            <meta property="article:author" content="40423241" />
 
 
     <!-- Bootstrap -->
@@ -255,7 +262,7 @@ init_mathjax();
                          <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
+                        <li class="active">
                             <a href="./category/course.html">Course</a>
                         </li>
             </ul>
@@ -277,251 +284,43 @@ init_mathjax();
     <div class="row">
         <div class="col-sm-9">
 
-            <article>
-                <h2><a href="./Week 12.html">20170510第十二週</a></h2>
-                <div class="summary"><h1>互評</h1>
-                    <a class="btn btn-default btn-xs" href="./Week 12.html">more ...</a>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./Week 12.html"
+                       rel="bookmark"
+                       title="Permalink to 20170510第十二週">
+                        20170510第十二週
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-05-10T11:00:00+08:00"> Wed 10 May 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423241.html"><i class="fa fa-user"></i> 40423241</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/brython.html">brython</a>
+        /
+	<a href="./tag/w12.html">w12</a>
+    
+</footer><!-- /.post-info -->                    </div>
                 </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 11.html">20170503第十一週</a></h2>
-                <div class="summary"><h1>互評</h1>
-                    <a class="btn btn-default btn-xs" href="./Week 11.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 9.html">20170412第九週 期中考</a></h2>
-                <div class="summary"><h1>期中四連桿四足行走機構</h1>
+                <h1>互評</h1>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
-<iframe src="https://player.vimeo.com/video/213785691" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/213785691">期中四連桿四足行走機構</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<p>40423241: <button onClick="lity('./../data/midterm7.png')"><span class="glyphicon glyphicon-picture"></span> 尺寸圖</button></p>
-
-<!-- 導入 Brython 標準程式庫 -->
-
-<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
-</script>
-
-<!-- 啟動 Brython -->
-
-<script>
-window.onload=function(){
-brython(1);
-}
-</script>
-
-<p><!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
- <canvas id="fourbar_40423241" width="600" height="400"></canvas></p>
-<script type="text/python3">
-from browser import document as doc
-from browser import html
-import math
-# 準備繪圖畫布
-canvas = doc["fourbar_40423241"]
-ctx = canvas.getContext("2d")
-
-fourbar_data = open("./../data/midterm7.csv").read()
-fourbar_list = fourbar_data.splitlines()
-# 以下可以利用 ctx 物件進行畫圖
-# 先畫一條直線
-ctx.beginPath()
-# 設定線的寬度為 1 ...</script></!--></!-->
-                    <a class="btn btn-default btn-xs" href="./Week 9.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 8.html">20170412第八週</a></h2>
-                <div class="summary"><h1>互評</h1>
-                    <a class="btn btn-default btn-xs" href="./Week 8.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 7.html">20170405第七週</a></h2>
-                <div class="summary"><h3>Fossil 推送檔案</h3>
-
-<iframe src="https://player.vimeo.com/video/212761652" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/212761652">Fossil</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fossil 推送檔案</h3>
-
-<p>1. 在 fossil_repo 的目錄 clone 區網的 fossil 檔</p>
-
-<p><img src="../data/fossil clone.png" width="800" />
-
-<p>2. 會發現多一個 bg1.fossil 的檔案</p>
-
-<p>3. 新建一個 wd 的目錄, 並且進去 wd 目錄</p>
-
-<pre>
-mkdir wd
-cd wd</pre>
-
-<p>4. 再新建一個 w7 的目錄, 並且進去 w7 目錄</p>
-
-<pre>
-mkdir w7
-cd w7</pre>
-
-<p><img src="../data/cd w7.png" width="800" />
-
-<p>5. 用相對位置打開 bg1.fossil </p>
-<pre>fossil open ...</pre></p></p>
-                    <a class="btn btn-default btn-xs" href="./Week 7.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 6.html">20170329第六週</a></h2>
-                <div class="summary"><h1>Fourbar 安裝</h1>
-<p></p>by Onshape</p>
-<iframe src="https://player.vimeo.com/video/212924650" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/212924650">Onshape繪製fourbar</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-<h3>Fourbar 運動模擬</h3>
-
-<p></p>by V-rep</p>
-<iframe src="https://player.vimeo.com/video/212925557" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/212925557">fourbar(Onshape轉V-rep)</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-<h3>解決倉儲推送出現問題</h3>
-
-<p><img src="../data/1492441492703.jpg" width="800" />
-<p>解決的辦法, 一樣刪除 plugin 下的 liquid_tags 目錄</p>
-                    <a class="btn btn-default btn-xs" href="./Week 6.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 5.html">20170322第五週</a></h2>
-                <div class="summary"><h1>單連桿(SolveSpace轉V-rep)</h1>
-<iframe src="https://player.vimeo.com/video/210539826" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/210539826">單連桿(SolveSpace轉V-rep)-學生版</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fossil SCM 與 Stunnel 啟動整合</h3>
-
-<p>1. 更改 Start.bat 設定</p>
-
-<pre class="brush: python">
-REM tiny2017 主要針對初學 Python3 與 C 學員所建立
-REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
-@echo off
-REM 設定 y 硬碟代號與 data 目錄對應
-set Disk=y
-subst %Disk%: "data"
-REM 設定 ...</pre>
-                    <a class="btn btn-default btn-xs" href="./Week 5.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 4.html">20170315第四週</a></h2>
-                <div class="summary"><h1>單連桿阻立</h1>
-<p><iframe src="https://player.vimeo.com/video/210400549" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/210400549">單連桿阻立</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-<h3>單桿機構</h3>
-
-<iframe src="../data/004.html" width="800" height="480"></iframe>
-
-<h3>單連桿-1<h3>
-<iframe src="https://player.vimeo.com/video/210400435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/210400435">單連桿-1</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>單連桿-2<h3>
-<iframe src="https://player.vimeo.com/video/210400483" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/210400483">單連桿-2</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>單連桿-3<h3>
-<iframe src="https://player.vimeo.com/video/210400516" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/210400516">單連桿-3</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-                    <a class="btn btn-default btn-xs" href="./Week 4.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 3.html">20170308第三週</a></h2>
-                <div class="summary"><h1>Fourbar組裝</h1>
-<p><p>by SolveSpace<p>
-<iframe src="https://player.vimeo.com/video/207398747" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/207398747">fourbar組裝</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-<h3>Fourbar組裝</h3>
-
-<p>by Onshape<p>
-<iframe src="https://player.vimeo.com/video/208420094" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/208420094">fourbar組裝</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fourbar-30mm</h3>
-
-<p>by SplveSpace<p>
-<iframe src="https://player.vimeo.com/video/208315501" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/208315501">30mm by SolveSpace</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fourbar-50mm</h3>
-
-<p>by SplveSpace<p>
-<iframe src="https://player.vimeo.com/video/208315592" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/208315592">50mm by SolveSpace</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fourbar-60mm</h3>
-
-<p>by SplveSpace<p>
-<iframe src="https://player.vimeo.com/video/208315629" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/208315629">60mm by SolveSpace</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>Fourbar-30mm</h3>
-
-<p>by Onshape<p>
-<iframe src="https://player.vimeo.com/video/208315680" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/208315680">30mm ...</a></p></p></p></p></p></p></p></p></p></p></p></p></p>
-                    <a class="btn btn-default btn-xs" href="./Week 3.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./Week 2.html">20170301第二週</a></h2>
-                <div class="summary"><h1>Fourbar</h1>
-<p>利用Solvespace 畫出簡單的四連桿機構, 觀察該機構的運動方式</p>
-
-<iframe src="https://player.vimeo.com/video/206973289" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/206973289">Fourbar</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>2017springvcp_hw</h3>
-
-<iframe src="https://player.vimeo.com/video/206982728" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/206982728">2017springvcp_hw</a> from <a href="https://vimeo.com/user63213368">40423241</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<h3>分組座位原始碼</h3>
-
-<pre class="brush: python">
-#import os
-adata = open("w2b_cadlab.txt", encoding="utf-8").read()
-#讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼
-rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
-#print(adata)
-#用print 先檢查資料是否是我們需要的
-alist = adata.splitlines()
-#利用splitlines 的方法把資料隔開 ...</pre>
-                    <a class="btn btn-default btn-xs" href="./Week 2.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-
-        <ul class="pagination">
-                <li class="prev disabled"><a href="#">&laquo;</a></li>
-                    <li class="active"><a
-                            href="./index.html">1</a></li>
-                    <li class=""><a
-                            href="./index2.html">2</a></li>
-                <li class="next"><a
-                        href="./index2.html">&raquo;</a></li>
-        </ul>
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
