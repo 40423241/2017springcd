@@ -170,13 +170,13 @@ init_mathjax();
 
         <meta name="author" content="40423241" />
         <meta name="keywords" content="brython,w15" />
-        <meta name="description" content="第一題" />
+        <meta name="description" content="W15練習 from 40423241黃鈺灃 on Vimeo. 第一題" />
 
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="20170531 W15 練習"/>
         <meta property="og:url" content="./Week 15.html"/>
-        <meta property="og:description" content="第一題"/>
+        <meta property="og:description" content="W15練習 from 40423241黃鈺灃 on Vimeo. 第一題"/>
         <meta property="article:published_time" content="2017-05-31" />
             <meta property="article:section" content="Course" />
             <meta property="article:tag" content="brython" />
@@ -315,7 +315,11 @@ init_mathjax();
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>第一題</p>
+                <iframe src="https://player.vimeo.com/video/219615632" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/219615632">W15練習</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>第一題</p>
 
 
 <!-- 導入 Brython 標準程式庫 -->
@@ -369,7 +373,7 @@ class Spur(object):
         # 齒輪漸開線分成 15 線段繪製
         imax = 15
         # 在輸入的畫布上繪製直線, 由圓心到節圓 y 軸頂點畫一直線
-        self.create_line(midx, midy, midx, midy-rp)
+        self.create_line(midx, midy, midx, midy)
         # 畫出 rp 圓, 畫圓函式尚未定義
         #create_oval(midx-rp, midy-rp, midx+rp, midy+rp, width=2)
         # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
@@ -478,10 +482,6 @@ ctx.fillText("40423241",350,400)
 ctx.stroke()
 </script>
 
-<iframe src="https://player.vimeo.com/video/219615632" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<p><a href="https://vimeo.com/219615632">W15練習</a> from <a href="https://vimeo.com/user63213368">40423241黃鈺灃</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 <p>第二題</p>
 <!-- PELICAN_END_SUMMARY -->
 
@@ -516,7 +516,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
 
-    def create_line(self, x1, y1, x2, y2,  width=3, fill="red"):
+    def create_line(self, x1, y1, x2, y2,  width=3, fill="pink"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
