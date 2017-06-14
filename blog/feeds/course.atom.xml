@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>20170614第十七週</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h1&gt;程式碼&lt;h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>20170614第十七週</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h1&gt;W17&lt;h1&gt;
+&lt;p&gt;&lt;img src="../data/solvespace_2017-06-14_11-01-45.png" width="800" /&gt;
+
+&lt;iframe src="../data/03.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;第一題&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/221525123" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/221525123"&gt;W17 NO.1&lt;/a&gt; from &lt;a href="https://vimeo.com/user63213368"&gt;40423241黃鈺灃&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
 
 &lt;pre&gt;Group.h.v=00000001
 Group.type=5000
@@ -1914,11 +1924,7 @@ Constraint.ptB.v=00210001
 Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
-AddConstraint&lt;/pre&gt;
-
-
-
-&lt;iframe src="../data/03.html" width="800" height="480"&gt;&lt;/iframe&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>20170531 W15 練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/219615632" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+AddConstraint&lt;/pre&gt;</summary><category term="brython"></category><category term="w17"></category></entry><entry><title>20170531 W15 練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/219615632" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/219615632"&gt;W15練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user63213368"&gt;40423241黃鈺灃&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
