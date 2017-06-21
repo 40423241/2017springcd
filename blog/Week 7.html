@@ -301,7 +301,7 @@ init_mathjax();
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-04-05T11:00:00+08:00"> 週三 05 四月 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-04-05T11:00:00+08:00"> Wed 05 April 2017</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423241.html"><i class="fa fa-user"></i> 40423241</a>
@@ -330,14 +330,17 @@ init_mathjax();
 <p>2. 會發現多一個 bg1.fossil 的檔案</p>
 
 <p>3. 新建一個 wd 的目錄, 並且進去 wd 目錄</p>
+
 <pre>
 mkdir wd
 cd wd</pre>
 
 <p>4. 再新建一個 w7 的目錄, 並且進去 w7 目錄</p>
+
 <pre>
 mkdir w7
 cd w7</pre>
+
 <p><img src="../data/cd w7.png" width="800" />
 
 <p>5. 用相對位置打開 bg1.fossil </p>
@@ -348,6 +351,7 @@ cd w7</pre>
 <p>7.將推送的資料放進資料夾中</p>
 
 <p>8. 依序輸入推送指令</p>
+
 <pre>
 fossil add .
 fossil remote-url off
@@ -355,6 +359,7 @@ fossil commit -m "提交的註解"
 fossil push http://user@10.0.0.130 </pre>
 
 <p>9. 如果遠端已經有別人先進行更新, 需要先更新進端資料, 再進行推送</p>
+
 <pre>
 fossil update</pre>
             </div>

@@ -2506,14 +2506,17 @@ ctx.closePath()
 &lt;p&gt;2. 會發現多一個 bg1.fossil 的檔案&lt;/p&gt;
 
 &lt;p&gt;3. 新建一個 wd 的目錄, 並且進去 wd 目錄&lt;/p&gt;
+
 &lt;pre&gt;
 mkdir wd
 cd wd&lt;/pre&gt;
 
 &lt;p&gt;4. 再新建一個 w7 的目錄, 並且進去 w7 目錄&lt;/p&gt;
+
 &lt;pre&gt;
 mkdir w7
 cd w7&lt;/pre&gt;
+
 &lt;p&gt;&lt;img src="../data/cd w7.png" width="800" /&gt;
 
 &lt;p&gt;5. 用相對位置打開 bg1.fossil &lt;/p&gt;
@@ -2524,6 +2527,7 @@ cd w7&lt;/pre&gt;
 &lt;p&gt;7.將推送的資料放進資料夾中&lt;/p&gt;
 
 &lt;p&gt;8. 依序輸入推送指令&lt;/p&gt;
+
 &lt;pre&gt;
 fossil add .
 fossil remote-url off
@@ -2531,6 +2535,7 @@ fossil commit -m "提交的註解"
 fossil push http://user@10.0.0.130 &lt;/pre&gt;
 
 &lt;p&gt;9. 如果遠端已經有別人先進行更新, 需要先更新進端資料, 再進行推送&lt;/p&gt;
+
 &lt;pre&gt;
 fossil update&lt;/pre&gt;</summary><category term="brython"></category><category term="w7"></category></entry><entry><title>20170329第六週</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423241</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h1&gt;Fourbar 安裝&lt;/h1&gt;
 &lt;p&gt;&lt;/p&gt;by Onshape&lt;/p&gt;
